@@ -8,7 +8,7 @@
 
 1. Dev. Area: Main folder of your project. The folder where you initialize git.
 
-2. Staging Area: Place we prepare for commiting.
+2. Staging Area: Place we prepare for commiting. Used to put together that are edited in the same category. The message will shared making the timeline more organized.
 
 3. Local repository: The place where you store the snapshots of your timeline. It is the `.git` directory.
 
