@@ -4,7 +4,13 @@
 
 - GitHub: Repository where git projects can be save, outside your computer. Alows to share changes with others. Back up of all time lines in a single place.
 
+### Conceptual areas
 
+1. Dev. Area: Main folder of your project. The folder where you initialize git.
+
+2. Staging Area: Place we prepare for commiting.
+
+3. Local repository: The place where you store the snapshots of your timeline. It is the `.git` directory.
 
 
 
