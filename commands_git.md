@@ -18,6 +18,6 @@ Check if they are uncommited, unstaged or untracked
 if you restore, you will delete your cheges!!!
 
 
-conflict kkkk lascou
-conflict kkkk e agora
+conflict kkkk 123
+conflict kkkk 456
 
