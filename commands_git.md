@@ -18,6 +18,6 @@ Check if they are uncommited, unstaged or untracked
 if you restore, you will delete your cheges!!!
 
 
-conflict kkkk 123abc
-conflict kkkk 456789
+
+VENCI!!!!
 
