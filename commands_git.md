@@ -15,3 +15,5 @@ Check if they are uncommited, unstaged or untracked
 `git status`
 
 if you restore, you will delete your cheges!!!
+
+Adding a new line.
