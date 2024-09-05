@@ -18,4 +18,4 @@ Check if they are uncommited, unstaged or untracked
 if you restore, you will delete your cheges!!!
 
 conf
-conflict kkkkk
+conflict
