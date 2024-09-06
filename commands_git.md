@@ -16,8 +16,6 @@ Check if they are uncommited, unstaged or untracked
 `git status`
 
 if you restore, you will delete your cheges!!!
-VENCI!!!!
-QWERT makes confuse
-
-
 CREATING A CONFLICT!!!!
+AZERTY is quite nice actually. 
+
