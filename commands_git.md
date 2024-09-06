@@ -21,3 +21,5 @@ if you restore, you will delete your cheges!!!
 
 AZERTY is quite nice actually. 
 2 votes for AZERTY...sadly enough...
+
+Branchs are good ways to work in collaboration!
