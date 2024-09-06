@@ -17,7 +17,7 @@ Check if they are uncommited, unstaged or untracked
 
 if you restore, you will delete your cheges!!!
 
-# Voting for best keyborad option
+# Voting for best keyboard option
 
 AZERTY is quite nice actually. 
 2 votes for AZERTY...sadly enough...
