@@ -16,6 +16,8 @@ Check if they are uncommited, unstaged or untracked
 `git status`
 
 if you restore, you will delete your cheges!!!
-CREATING A CONFLICT!!!!
-AZERTY is quite nice actually. 
 
+# Voting for best keyborad option
+
+AZERTY is quite nice actually. 
+2 votes for AZERTY...sadly enough...
