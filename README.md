@@ -9,3 +9,6 @@ This is project includes a dictionary with git and github concepts, along with a
 - Dictionary: for the concepts
 - Comands : with list of commands
 - PNG files are random tests
+
+
+My name is NICO
