@@ -1,6 +1,7 @@
 # My 1st git project
 
-## ABOUT 
+
+## ABOUT :  This is actually Sergio's project 
 
 This is project includes a dictionary with git and github concepts, along with a list of commands that are most used.
 
