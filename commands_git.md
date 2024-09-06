@@ -16,3 +16,5 @@ Check if they are uncommited, unstaged or untracked
 `git status`
 
 if you restore, you will delete your cheges!!!
+
+AZERTY is quite nice actually. 
