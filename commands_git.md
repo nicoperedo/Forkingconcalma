@@ -16,12 +16,6 @@ Check if they are uncommited, unstaged or untracked
 `git status`
 
 if you restore, you will delete your cheges!!!
-<<<<<<< HEAD
 VENCI!!!!
-=======
+QWERT makes confuse
 
-
-
-VENCI!!!!
-
->>>>>>> parent of 9e8822a (aaaaaaaaa) CONFLICTS ALL OVER
