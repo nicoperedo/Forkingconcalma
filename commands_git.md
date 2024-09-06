@@ -16,13 +16,4 @@ Check if they are uncommited, unstaged or untracked
 `git status`
 
 if you restore, you will delete your cheges!!!
-
-
-<<<<<<< HEAD
-
 VENCI!!!!
-=======
-conflict kkkk 123
-conflict kkkk 456
->>>>>>> parent of eab3adf (keyboard)
-
