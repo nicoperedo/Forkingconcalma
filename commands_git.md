@@ -19,3 +19,5 @@ if you restore, you will delete your cheges!!!
 VENCI!!!!
 QWERT makes confuse
 
+
+CREATING A CONFLICT!!!!
